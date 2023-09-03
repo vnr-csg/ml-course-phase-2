@@ -1,5 +1,6 @@
 # Machine Learning Course - PHASE 2
 Course Link: https://www.youtube.com/playlist?list=PLB0Tybl0UNfYe9aJXfWw-Dw_4VnFrqRC4
+From: https://www.freecodecamp.org/news/learn-machine-learning-and-neural-networks-without-frameworks/
 
 The content is divided by the lessons. You can take the version before a lesson, to follow along or after the lesson to compare in case something is not quite right.
 
